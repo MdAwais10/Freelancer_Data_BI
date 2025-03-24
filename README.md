@@ -1,1 +1,1 @@
-# Freelancer_Data_BI
+This Dataset  and BI Dashboard provides comprehensive information about freelancer earnings and job trends across various industries and skill categories. It aims to help job seekers, freelancers, and researchers understand compensation patterns and demand in the gig economy.
